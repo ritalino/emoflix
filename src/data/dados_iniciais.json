@@ -2,8 +2,12 @@
   "categorias": [
     {
       "titulo": "Panic! At The Disco",
-      "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "link": "https://www.youtube.com/watch?v=gOgpdp3lP8M",
+      "cor": "#dd3030",
+      "link_extra": {
+        "text": "",
+        "url": "https://www.youtube.com/watch?v=gOgpdp3lP8M"
+      },
       "videos": [
         {
           "titulo": "The Ballad of Mona Lisa",
@@ -33,7 +37,7 @@
     },
     {
       "titulo": "My Chemical Romance",
-      "cor": "#00C86F",
+      "cor": "#39754a",
 
       "videos": [
         {
@@ -64,7 +68,7 @@
     },
     {
       "titulo": "Paramore",
-      "cor": "#9cd33b",
+      "cor": "#ef631c",
 
       "videos": [
         {
@@ -95,7 +99,7 @@
     },
     {
       "titulo": "Fall Out Boy",
-      "cor": "orange",
+      "cor": "#813ea8",
       "videos": [
         {
           "titulo": "Thnks fr th Mmrs",
@@ -117,7 +121,7 @@
     },
     {
       "titulo": "Simple Plan",
-      "cor": "red",
+      "cor": "#dbca36",
 
       "videos": [
         {
@@ -148,7 +152,7 @@
     },
     {
       "titulo": "NX Zero",
-      "cor": "#6b5be2",
+      "cor": "#43a4ad",
 
       "videos": [
         {
@@ -171,7 +175,7 @@
     },
     {
       "titulo": "Fresno",
-      "cor": "#6b5be2",
+      "cor": "#c94ca6",
 
       "videos": [
         {

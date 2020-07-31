@@ -26,6 +26,11 @@
   background: var(--black);
   border-bottom: 2px solid var(--primary);
 }
+
+.LogoLink {
+  display: flex;
+}
+
 body {
   --bodyPaddingTop: 94px;
   padding-top: var(--bodyPaddingTop);
