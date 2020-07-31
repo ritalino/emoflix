@@ -1,18 +1,16 @@
-import React from 'react';
-import { FooterBase } from './styles';
+import React from "react";
+import { FooterBase, Logo } from "./styles";
+import EmoflixLogo from "../../assets/img/LogoWhite.png";
 
 function Footer() {
   return (
     <FooterBase>
       <a href="https://www.alura.com.br/">
-        <img src="https://www.alura.com.br/assets/img/alura-logo-white.1570550707.svg" alt="Logo Alura" />
+        <Logo src={EmoflixLogo} alt="Logo Emoflix" />
       </a>
       <p>
-        Orgulhosamente criado durante a
-        {' '}
-        <a href="https://www.alura.com.br/">
-          Imersão React da Alura
-        </a>
+        Orgulhosamente criado durante a{" "}
+        <a href="https://www.alura.com.br/">Imersão React da Alura</a>
       </p>
     </FooterBase>
   );
